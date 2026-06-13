@@ -1,0 +1,23 @@
+# Environments
+venv/
+vevn/
+ENV/
+env/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large indices/models
+index/
+*.pkl
+*.bin
+
+# Large datasets
+data/corpus/
+
+# IDE settings
+.vscode/
+.idea/
